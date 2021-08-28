@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 
-- [Contact me🙂](telegram.me/infernio)
+- Contact me🙂 t.me/infernio
 
 <!---
 the-inferior/the-inferior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
