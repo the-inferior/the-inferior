@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-inferior
-- 👀 I’m interested in Userbot
+- 👀 I’m interested Telegram Bots
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 
